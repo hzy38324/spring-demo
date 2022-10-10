@@ -1,4 +1,4 @@
-package com.example.demo.beans;
+package com.example.demo.bean_factory;
 
 /**
  * @author: nitzschhong
